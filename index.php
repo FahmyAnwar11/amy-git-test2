@@ -9,5 +9,8 @@
 <body>
     <h1>hellow word</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque, illo natus nesciunt quisquam inventore vero nisi explicabo nobis facilis iste enim reprehenderit nostrum ea voluptas odio corporis doloribus voluptatum vitae!</p>
+    <ul>
+        <li>apalah</li>
+    </ul>
 </body>
 </html>
